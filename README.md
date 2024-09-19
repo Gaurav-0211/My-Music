@@ -1,7 +1,7 @@
-My Music🎵
+# My Music🎵
 A web-based Spotify clone application that allows users to browse, search, and play music, with an interface inspired by Spotify. This project aims to replicate core functionalities of Spotify to provide a similar music streaming experience.
 
-Features 🚀
+## Features 🚀
 User Authentication (Sign-up/Sign-in)
 Browse playlists and albums
 Search for songs, albums, and artists
@@ -9,9 +9,9 @@ Play and control music playback
 Responsive design across devices
 Customizable playlist creation
 Dynamic user interface with smooth transitions
-Technologies Used 🛠
+## Technologies Used 🛠
 Frontend: HTML5, CSS3, JavaScript
-Database: MongoDB
+## Database: MongoDB
 Authentication: JWT (JSON Web Tokens)
 Music Streaming API: Spotify Web API
 Version Control: Git, GitHub
